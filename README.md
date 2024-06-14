@@ -13,5 +13,5 @@ Analytics Projects
 ## **Coding:**
 ### 1. [Weather API](https://github.com/AnnaLazarieva/Portfolio/blob/main/Weather_API_Python.ipynb): The Weather Forecast for any city around the globe (Python)
 ### 2. [Statistical tests](https://github.com/AnnaLazarieva/Portfolio/blob/main/Statistical_Tests_Olist_Python.ipynb): The Basic Statistical Analysis and Hypothesis Testing for Olist (Python)
-### 3. [Clustering](https://github.com/AnnaLazarieva/Portfolio/blob/main/Clustering_Spotify_Python.ipynb): Generate a Spotify playlists with the recommended songs (Python)
+### 3. [Clustering](https://github.com/AnnaLazarieva/Portfolio/blob/main/Clustering_Spotify_Python.ipynb): Generate Spotify playlists with the recommended songs (Python)
 ### 4. [Extract Data](https://github.com/AnnaLazarieva/Portfolio/blob/main/SQL_E-commerce_Olist.sql): The Business Insights for Olist E-com company (SQL)
