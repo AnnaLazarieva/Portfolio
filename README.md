@@ -6,7 +6,7 @@ Analytics Projects
 ![image](https://github.com/AnnaLazarieva/Portfolio/assets/157623435/eebbd139-dc0b-4df3-97c8-f6bbcdfa6c8a)
 ![image](https://github.com/AnnaLazarieva/Portfolio/assets/157623435/338e18ed-c07f-414d-84e7-9c5fed20d6f9)
 
-### 2. [Power BI](https://raw.githubusercontent.com/AnnaLazarieva/Portfolio/main/PBI_TheLook_Sales_Dashboard.pbix): E-com Sales Performance Dashboard
+### 2. [Power BI](https://raw.githubusercontent.com/AnnaLazarieva/Portfolio/blob/main/PBI_TheLook_Sales_Dashboard.pbix): E-com Sales Performance Dashboard
 ![image](https://github.com/AnnaLazarieva/Portfolio/assets/157623435/4c3fedb4-7754-4bb5-afd4-cf65f0889d81)
 ![image](https://github.com/AnnaLazarieva/Portfolio/assets/157623435/14b8e81b-5f05-42ef-93eb-109518005b02)
 
